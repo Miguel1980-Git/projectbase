@@ -1,0 +1,82 @@
+h1 {
+    text-align: center;
+    font-family: Impact;
+}
+
+nav {
+    text-align: center;
+
+}
+
+header {
+    background-color: rgb(127, 182, 255);
+}
+
+h5 {
+    text-align: center;
+
+}
+
+footer {
+    background-color: rgb(24, 22, 22);
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: left;
+    color: rgb(32, 30, 30);
+    margin: 30px 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(36, 33, 33);
+}
+
+h2 {
+    color: rgb(26, 24, 24);
+}
+
+ol {
+    text-align: left;
+    color: rgb(26, 24, 24)
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+
+
+*{
+    margin:0;
+    padding:0;
+  }
+
+  div{
+    width: 400px;
+    height: 500px;
+    background-color:lab(57.74% -0.73 -51.11);
+    margin: 50px auto ;
+    text-align: center;
+}
+ol{
+   display: inline-block;
+
+}
+#h3roteiro{
+    border: 10px solid #1d1c1c;
+   border-radius: 80px;
+}
+h2{
+    text-align: center;
+ 
+}

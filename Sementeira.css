@@ -1,0 +1,80 @@
+h1{
+    text-align:center;
+    font-family:Impact;
+    color: rgb(39, 35, 35);
+}
+
+nav{
+    text-align: center;
+    
+}
+
+header{ background-color: rgb(127, 182, 255);}
+
+h5{ 
+    text-align: center;
+
+}
+footer{ background-color: rgb(32, 30, 30);
+      
+
+}
+
+p{
+    text-align: left;
+    color: rgb(34, 31, 31);
+    margin: 30px 50px;
+}
+a{ 
+   text-decoration: none;
+
+}
+section{
+        text-align: center;
+        color: white;
+}    
+
+#sementeira{
+        color: rgb(34, 31, 31);
+
+}
+
+ul{
+   text-align: left;
+   color: rgb(34, 32, 32);
+}
+
+footer p{
+   text-align: center ;
+color: white;
+}
+
+h3{
+    text-align: left ;
+
+}
+ h2{
+    text-align: center;
+
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+  div{
+    width: 400px;
+    height: 590px;
+    background-color:lab(57.74% -0.73 -51.11);
+    margin: 50px auto;
+    text-align: center;
+}
+ul{
+    display: inline-block;
+
+}
+#h3doroteiro{
+             border: 10px solid #1d1c1c;
+            border-radius: 80px;
+}
